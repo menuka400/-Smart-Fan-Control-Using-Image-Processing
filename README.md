@@ -50,7 +50,7 @@ python main.py
 - **Buzzer & RGB LED**
 
 ## 📷 Demo Images
-![Hand Gesture Demo](images/gesture-demo.jpg)  
+![Demo Images](https://github.com/user-attachments/assets/d88c4de8-ddb1-4dc6-aad7-2714174e7824)
 *Gesture-based Fan Control*
 
 📌 **Promotional Poster**: [View Full PDF](https://github.com/user-attachments/files/18587981/V_2.pdf)
