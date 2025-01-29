@@ -1,13 +1,67 @@
-🔍 Project Overview: This project utilizes AI and machine learning, specifically neural networks, to recognize hand gestures and control a fan. Using Google’s Teachable Machine, we trained the system to recognize five distinct hand gestures, corresponding to:
+# 🌀 Smart Fan Control System
 
-Turn On and Turn Off the fan 💡
-Increase Speed or Decrease Speed 📈📉
-Set Speed to a specific level 🖐️
+## 📌 Overview
+The **Smart Fan Control System** is an AI-powered fan automation solution that detects **hand gestures** using a camera and adjusts the fan speed accordingly. It enhances convenience, energy efficiency, and a **touch-free experience**.
 
-💡 Key Achievements:
-We achieved 100% accuracy for each gesture class using a balanced dataset of 5000 images per gesture. Automated data collection ensured consistency and accuracy, with all samples captured from the CZone library. The system integrates ESP32 hardware, a camera module, and a fan interface to enable seamless gesture-based control in real-time.
+![Product Image](images/product.jpg)  
+*Smart Fan in Action*
 
-🎯 Technologies and Approach:
-Teachable Machine & OpenCV for gesture recognition ESP32 for fan control and IoT integration Python to implement image processing techniques Hand gesture recognition model trained with images for five classes: Paper, Rock, Scissors, Thumbs Up, and Up 📊 Outcome and Impact: This project demonstrated the feasibility of using AI-based gesture recognition to control home appliances, paving the way for hands-free and intuitive home automation. Such innovations have promising applications in improving the accessibility and efficiency of IoT systems.
+## 🎯 Features
+✅ AI-powered gesture recognition (YOLO Model)  
+✅ ESP32-based fan control over WiFi  
+✅ Adjustable fan speed using **hand gestures**  
+✅ Real-time image processing via ESP32-CAM  
+✅ Automatic **buzzer and RGB LED** activation  
 
-✨ Acknowledgment: A huge thanks to my team members (M.H. Jayasuriya, K.B.R.S. Wijerathna, H.P.N. Kariyawasam, C. Fernando, Y.M.M. Sathsara) and our mentors at SLTC Research University for their guidance and support throughout this journey. We truly appreciate all the feedback and support that made this project possible!
+## 📸 Hand Gesture Commands
+| Gesture | Action |
+|---------|--------|
+| ✋ Paper | Set fan speed to **75%** |
+| ✊ Rock | **Turn off** the fan |
+| ✌ Scissors | Reduce speed to **50%** |
+| 👍 Thumbs Up | **Turn On** the fan |
+| ☝ Up | Set fan speed to **100%** |
+
+## 🛠️ Installation & Setup
+
+### 1️⃣ **Clone Repository**
+```sh
+git clone https://github.com/your-repo/smart-fan.git
+cd smart-fan
+```
+
+### 2️⃣ **Install Dependencies**
+```sh
+pip install -r requirements.txt
+```
+
+### 3️⃣ **Run the Application**
+```sh
+python main.py
+```
+
+## 🔧 Hardware & Components
+- **ESP32 Devkit (30-pin)**
+- **ESP32-CAM**
+- **120mm 4-Pin PC Fan**
+- **TB6612FNG Motor Driver**
+- **Relay Module**
+- **Bridgelux Genesis Epistar Chip 3W High Power LED**
+- **Buzzer & RGB LED**
+
+## 📷 Demo Images
+![Hand Gesture Demo](images/gesture-demo.jpg)  
+*Gesture-based Fan Control*
+
+![Product Poster](images/poster.jpg)  
+*Promotional Poster*
+
+## 🤝 Contributors
+- **Your Name** ([GitHub](https://github.com/your-profile))
+- **Collaborator Name** ([GitHub](https://github.com/collaborator-profile))
+
+## 📜 License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+### ⭐ *Star this repository if you like our project!* ⭐
