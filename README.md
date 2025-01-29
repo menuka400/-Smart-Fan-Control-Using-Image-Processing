@@ -56,7 +56,7 @@ python main.py
 📌 **Promotional Poster**: [View Full PDF](https://github.com/user-attachments/files/18587981/V_2.pdf)
 
 ## 📜 License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**
 
 ---
 ### ⭐ *Star this repository if you like our project!* ⭐
