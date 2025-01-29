@@ -51,6 +51,9 @@ python main.py
 
 ## 📷 Demo Images
 ![Demo Images](https://github.com/user-attachments/assets/d88c4de8-ddb1-4dc6-aad7-2714174e7824)
+![Demo Images](https://github.com/user-attachments/assets/441752b8-c171-4f8e-a55d-ec43c929a82f)
+![Demo Images](https://github.com/user-attachments/assets/54503278-b442-407f-b043-18e0d8134fa2)
+
 *Gesture-based Fan Control*
 
 📌 **Promotional Poster**: [View Full PDF](https://github.com/user-attachments/files/18587981/V_2.pdf)
