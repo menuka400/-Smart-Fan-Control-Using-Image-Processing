@@ -56,10 +56,6 @@ python main.py
 ![Product Poster](images/poster.jpg)  
 *Promotional Poster*
 
-## 🤝 Contributors
-- **Your Name** ([GitHub](https://github.com/your-profile))
-- **Collaborator Name** ([GitHub](https://github.com/collaborator-profile))
-
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
