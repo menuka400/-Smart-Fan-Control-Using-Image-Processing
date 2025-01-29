@@ -53,7 +53,8 @@ python main.py
 ![Hand Gesture Demo](images/gesture-demo.jpg)  
 *Gesture-based Fan Control*
 
-![Product Poster](images/poster.jpg)  
+![Product Poster](https://github.com/user-attachments/files/18587981/V_2.pdf)
+ 
 *Promotional Poster*
 
 ## 📜 License
