@@ -3,9 +3,6 @@
 ## 📌 Overview
 The **Smart Fan Control System** is an AI-powered fan automation solution that detects **hand gestures** using a camera and adjusts the fan speed accordingly. It enhances convenience, energy efficiency, and a **touch-free experience**.
 
-![Product Image](images/product.jpg)  
-*Smart Fan in Action*
-
 ## 🎯 Features
 ✅ AI-powered gesture recognition (YOLO Model)  
 ✅ ESP32-based fan control over WiFi  
